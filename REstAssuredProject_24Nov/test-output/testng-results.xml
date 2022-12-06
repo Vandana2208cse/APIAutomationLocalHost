@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-25T11:09:39 IST" name="Default suite" finished-at="2022-11-25T11:09:44 IST" duration-ms="5517">
+    <groups>
+    </groups>
+    <test started-at="2022-11-25T11:09:39 IST" name="Default test" finished-at="2022-11-25T11:09:44 IST" duration-ms="5517">
+      <class name="BasicRequests.DataReadingUsingJSONPath">
+        <test-method signature="Post()[pri:0, instance:BasicRequests.DataReadingUsingJSONPath@7a69b07]" started-at="2022-11-25T11:09:39 IST" name="Post" finished-at="2022-11-25T11:09:44 IST" duration-ms="5450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Post -->
+      </class> <!-- BasicRequests.DataReadingUsingJSONPath -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
